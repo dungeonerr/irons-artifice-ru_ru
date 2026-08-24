@@ -130,5 +130,5 @@
   "death.attack.irons_artifice.bullet.stopped_cold": "%1$s простудилчя благодаря %2$s",
   "death.attack.irons_artifice.bullet.stopped_cold.item": "%1$s простудился благодаря %2$s используя %3$s",
   "death.attack.irons_artifice.bullet.bullet": "%1$s был застрелен %2$s. С помощью пули.",
-  "death.attack.irons_artifice.bullet.bullet.item": "%1$s был застрелен %2$s. С помощью пули. Из %3$s.",
+  "death.attack.irons_artifice.bullet.bullet.item": "%1$s был застрелен %2$s. С помощью пули. Из %3$s."
 }
